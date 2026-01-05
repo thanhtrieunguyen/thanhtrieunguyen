@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Hire_Me-Success-2ea44f?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me" />
+  <a href="mailto:thanhtrieunguyen2004@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Success-2ea44f?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me" />
   </a>
 </div>
 
