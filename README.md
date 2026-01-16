@@ -50,16 +50,11 @@
 ---
 
 ### 📈 Coding Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtrieunguyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="thanhtrieunguyen's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrieunguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtrieunguyen&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  
+  ![](https://github-readme-stats.vercel.app/api?username=thanhtrieunguyen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thanhtrieunguyen&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrieunguyen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
