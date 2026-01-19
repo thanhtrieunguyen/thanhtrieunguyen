@@ -53,7 +53,7 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=thanhtrieunguyen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thanhtrieunguyen&theme=tokyonight&hide_border=false)<br/>
+![GitHub Streak](./profile/streak.svg)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrieunguyen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
