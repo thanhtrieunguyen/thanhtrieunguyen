@@ -57,8 +57,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-chi-pink.vercel.app?user=thanhtrieunguyen&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrieunguyen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
