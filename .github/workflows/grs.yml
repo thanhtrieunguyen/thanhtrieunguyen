@@ -23,14 +23,11 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate streak card
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: ${{ github.repository_owner }}
+          options: user=${{ github.repository_owner }}&theme=nightowl&hide_border=true&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-          output: profile/streak.svg
-          theme: nightowl
-          hide_border: true
-          type: svg
 
       - name: Commit cards
         run: |
