@@ -55,7 +55,7 @@
 ![Stats](./profile/stats.svg)<br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-pink.vercel.app?user=thanhtrieunguyen&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
