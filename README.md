@@ -83,9 +83,9 @@ motto     : "Stay hungry, stay foolish"
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" />
+<img src="./profile/stats.svg" width="44%" />
 &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-<img src="./profile/streak.svg" height="180" />
+<img src="./profile/streak.svg" width="44%" />
 
 </div>
 
