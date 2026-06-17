@@ -18,16 +18,24 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=nightowl
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=e8d5a3&icon_color=8b9fd4&text_color=c9d1d9&ring_color=2f2f9c
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=nightowl&hide_border=true&disable_animations=true
+          options: user=${{ github.repository_owner }}&theme=nightowl&hide_border=true&disable_animations=true&background=0d1117&ring=2f2f9c&fire=e8d5a3&currStreakLabel=8b9fd4
           path: profile/streak.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Generate snake (dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile/github-contribution-grid-snake.svg?palette=github
 
       - name: Commit cards
         run: |

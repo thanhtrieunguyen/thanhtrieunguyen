@@ -1,66 +1,117 @@
+<!-- Header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b4b&height=220&section=header&text=Thanh%20Trieu%20Nguyen&fontSize=48&fontColor=e8d5a3&fontAlignY=42&desc=Software%20Engineer%20%7C%20PHP%20%2F%20Laravel%20%7C%20Web%20Builder&descSize=16&descAlignY=64&descColor=8b9fd4&animation=fadeIn" width="100%" />
+
+<br/>
+
+<!-- Social links row -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=200&&color=2F81F7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thanh+Trieu;Fresh+Graduate+Software+Engineer;Passionate+about+Web+Development;PHP+%2F+Laravel+Enthusiast;Building+Web+%26+Automation+Tools;Always+Eager+to+Learn+%26+Grow" alt="Typing SVG" />
-  </a>
+
+[![Email](https://img.shields.io/badge/thanhtrieunguyen2004%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=e8d5a3&labelColor=1a1b4b)](mailto:thanhtrieunguyen2004@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/thanhtrieunguyen-0d1117?style=flat-square&logo=github&logoColor=e8d5a3&labelColor=1a1b4b)](https://github.com/thanhtrieunguyen)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=thanhtrieunguyen&style=flat-square&color=1a1b4b&label=profile+views&labelColor=0d1117)](https://github.com/thanhtrieunguyen)
+
 </div>
 
+<br/>
+
+---
+
+## `$ whoami`
+
+```yaml
+name      : Thanh Trieu Nguyen
+role      : Fresh Graduate Software Engineer
+focus     : PHP / Laravel · Python · Web Automation
+learning  : System Design · DB Optimization · Clean Code
+goal      : Versatile Full-stack Developer
+motto     : "Stay hungry, stay foolish"
+```
+
+---
+
+## `$ cat tech_stack.json`
+
 <div align="center">
-  <a href="mailto:thanhtrieunguyen2004@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Success-2ea44f?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me" />
-  </a>
+
+**— Languages —**
+
+[![PHP](https://img.shields.io/badge/PHP-1a1b4b?style=for-the-badge&logo=php&logoColor=a78bfa)](https://php.net)
+[![Python](https://img.shields.io/badge/Python-1a1b4b?style=for-the-badge&logo=python&logoColor=fbbf24)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1a1b4b?style=for-the-badge&logo=javascript&logoColor=f59e0b)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-1a1b4b?style=for-the-badge&logo=openjdk&logoColor=f87171)](https://java.com)
+[![HTML5](https://img.shields.io/badge/HTML5-1a1b4b?style=for-the-badge&logo=html5&logoColor=fb923c)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1a1b4b?style=for-the-badge&logo=css3&logoColor=60a5fa)](https://developer.mozilla.org)
+
+**— Frameworks & Libraries —**
+
+[![Laravel](https://img.shields.io/badge/Laravel-1a1b4b?style=for-the-badge&logo=laravel&logoColor=f87171)](https://laravel.com)
+[![React](https://img.shields.io/badge/React-1a1b4b?style=for-the-badge&logo=react&logoColor=67e8f9)](https://react.dev)
+[![Tailwind](https://img.shields.io/badge/Tailwind-1a1b4b?style=for-the-badge&logo=tailwindcss&logoColor=34d399)](https://tailwindcss.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1b4b?style=for-the-badge&logo=bootstrap&logoColor=c084fc)](https://getbootstrap.com)
+[![jQuery](https://img.shields.io/badge/jQuery-1a1b4b?style=for-the-badge&logo=jquery&logoColor=60a5fa)](https://jquery.com)
+[![Node.js](https://img.shields.io/badge/Node.js-1a1b4b?style=for-the-badge&logo=nodedotjs&logoColor=86efac)](https://nodejs.org)
+
+**— Tools & Platforms —**
+
+[![Git](https://img.shields.io/badge/Git-1a1b4b?style=for-the-badge&logo=git&logoColor=fb923c)](https://git-scm.com)
+[![MySQL](https://img.shields.io/badge/MySQL-1a1b4b?style=for-the-badge&logo=mysql&logoColor=67e8f9)](https://mysql.com)
+[![Docker](https://img.shields.io/badge/Docker-1a1b4b?style=for-the-badge&logo=docker&logoColor=60a5fa)](https://docker.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1a1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa)](https://code.visualstudio.com)
+[![Postman](https://img.shields.io/badge/Postman-1a1b4b?style=for-the-badge&logo=postman&logoColor=fb923c)](https://postman.com)
+[![Linux](https://img.shields.io/badge/Linux-1a1b4b?style=for-the-badge&logo=linux&logoColor=fbbf24)](https://kernel.org)
+[![Figma](https://img.shields.io/badge/Figma-1a1b4b?style=for-the-badge&logo=figma&logoColor=f472b6)](https://figma.com)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## `$ ls projects/`
 
-- 🎓 I recently graduated with a degree in **Software Engineering**.
-- 🔭 I’m currently building cool web apps with **PHP (Laravel) & Python**.
-- 🌱 I’m deeply learning about **System Design, Database Optimization, and Clean Code**.
-- 💡 My goal: To become a versatile **Full-stack Developer**.
-- ⚡ **"Stay hungry, stay foolish"** is my motto.
+| &nbsp; | Project | Stack | About |
+|:---:|:---|:---|:---|
+| `01` | **[Course Enrollment System](https://github.com/thanhtrieunguyen/course-enrollment-system)** | `PHP` `Laravel` `MySQL` | Registration & management system for academic courses |
+| `02` | **[Supercar Rental UI](https://github.com/thanhtrieunguyen/supercar-rental)** | `JavaScript` `SCSS` | High-fidelity responsive UI for a luxury rental platform |
+| `03` | **[GV Rating System](https://github.com/thanhtrieunguyen/gv-rating-system)** | `PHP` `Blade` `Laravel` | Lecturer feedback & rating platform |
+| `04` | **[VietCar Rental Web](https://github.com/thanhtrieunguyen/vietcar-rental-web)** | `PHP` `Laravel` `MySQL` | Full-stack car rental platform with booking & management |
+| `05` | **[Aviation Weather AI](https://github.com/thanhtrieunguyen/aviation-weather-ai)** | `Python` `Node.js` `Vue` `React Native` | AI-powered weather alert system for safe flight monitoring, serving pilots and passengers |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## `$ git log --stat`
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,java" />
-  <br><br>
-  
-  <p><b>Frameworks & Libraries</b></p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,jquery,nodejs" />
-  <br><br>
 
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,postman,docker,linux,figma" />
+<img src="./profile/stats.svg" height="180" />
+&nbsp;&nbsp;
+<img src="./profile/streak.svg" height="180" />
+
 </div>
 
----
+<br/>
 
-### 📂 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Course Enrollment System** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | A system to manage course registration efficiently. |
-| **Supercar Rental UI** | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) | Modern and responsive UI for a luxury car rental service. |
-| **GV Rating System** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Feedback and rating system for lecturers. |
-
----
-
-### 📈 Coding Activity
 <div align="center">
-  
-![Stats](./profile/stats.svg)<br/>
 
-
-![GitHub Streak](./profile/streak.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtrieunguyen&bg_color=0d1117&color=8b9fd4&line=2f2f9c&point=e8d5a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## `$ ls contributions/`
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhtrieunguyen&style=flat-square&color=blueviolet" alt="Profile views" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="./profile/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
+
+---
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b4b&height=140&section=footer&animation=fadeIn" width="100%" />
