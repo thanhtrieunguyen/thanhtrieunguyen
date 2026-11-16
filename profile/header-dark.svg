@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220">
+  <title>Flight Plan: Route from PHP/Laravel through Python to Backend Engineer</title>
+  <defs>
+    <pattern id="flight-grid-dark" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8b9fd4" stroke-opacity="0.10" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Background container with rounded corners -->
+  <rect width="1000" height="220" rx="10" fill="#1a1b4b" />
+  <rect width="1000" height="220" rx="10" fill="url(#flight-grid-dark)" />
+
+  <!-- Outer frame border -->
+  <rect x="15" y="15" width="970" height="190" rx="6" fill="none" stroke="#8b9fd4" stroke-opacity="0.15" stroke-width="1" />
+
+  <!-- Header labels -->
+  <text x="35" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#e8d5a3">FLIGHT PLAN</text>
+  <text x="145" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1" fill="#8b9fd4">// SYSTEM BACKEND TRAJECTORY</text>
+  <text x="965" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1" fill="#8b9fd4">CRZ: SYSTEM DESIGN / OPTIMIZATION</text>
+
+  <!-- Flight path (dashed curved line connecting waypoints) -->
+  <path d="M 180 135 C 330 70, 390 100, 500 100 C 610 100, 670 160, 820 135" fill="none" stroke="#e8d5a3" stroke-width="2" stroke-dasharray="6 6" />
+
+  <!-- Waypoint 1: NOW (PHP / Laravel) -->
+  <g transform="translate(180, 135)">
+    <!-- Masking background tag to prevent path overlap -->
+    <rect x="-95" y="-56" width="190" height="42" rx="4" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.25" stroke-width="1" />
+    <text x="0" y="-40" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#8b9fd4">[ NOW ]</text>
+    <text x="0" y="-22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#e8d5a3">PHP / LARAVEL</text>
+
+    <!-- Waypoint pin -->
+    <circle cx="0" cy="0" r="14" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="0" cy="0" r="5" fill="#e8d5a3" />
+
+    <text x="0" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b9fd4">MySQL / Core Stack</text>
+  </g>
+
+  <!-- Waypoint 2: EN ROUTE (Python) -->
+  <g transform="translate(500, 100)">
+    <!-- Masking background tag -->
+    <rect x="-95" y="-56" width="190" height="42" rx="4" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.25" stroke-width="1" />
+    <text x="0" y="-40" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#8b9fd4">[ EN ROUTE ]</text>
+    <text x="0" y="-22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#e8d5a3">PYTHON</text>
+
+    <!-- Waypoint pin -->
+    <circle cx="0" cy="0" r="14" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="0" cy="0" r="5" fill="#e8d5a3" />
+
+    <text x="0" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b9fd4">Automation / ML Data</text>
+  </g>
+
+  <!-- Waypoint 3: GOAL (Backend Engineer) -->
+  <g transform="translate(820, 135)">
+    <!-- Masking background tag -->
+    <rect x="-95" y="-56" width="190" height="42" rx="4" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.25" stroke-width="1" />
+    <text x="0" y="-40" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#8b9fd4">[ GOAL ]</text>
+    <text x="0" y="-22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#e8d5a3">BACKEND ENGINEER</text>
+
+    <!-- Target pin -->
+    <circle cx="0" cy="0" r="14" fill="#1a1b4b" stroke="#8b9fd4" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="0" cy="0" r="8" fill="none" stroke="#e8d5a3" stroke-width="1.5" />
+    <circle cx="0" cy="0" r="4" fill="#e8d5a3" />
+
+    <text x="0" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b9fd4">Distributed Systems</text>
+  </g>
+
+  <!-- Bottom status bar -->
+  <line x1="35" y1="185" x2="965" y2="185" stroke="#8b9fd4" stroke-opacity="0.15" stroke-width="1" />
+  <text x="35" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1" fill="#8b9fd4">STATUS: ACTIVE FLIGHT</text>
+  <text x="500" y="198" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1" fill="#8b9fd4">BASE: HO CHI MINH CITY</text>
+  <text x="965" y="198" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1" fill="#8b9fd4">FIX COUNT: 03</text>
+</svg>
