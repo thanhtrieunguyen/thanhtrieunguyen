@@ -37,7 +37,7 @@ jobs:
 
       - name: Generate streak card
         if: steps.check_token.outputs.has_token == 'true'
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.2
         with:
           options: user=${{ github.repository_owner }}&theme=nightowl&hide_border=true&disable_animations=true&background=1a1b4b&ring=2f2f9c&fire=e8d5a3&currStreakLabel=8b9fd4&card_width=380
           path: profile/streak.svg
